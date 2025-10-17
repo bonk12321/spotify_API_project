@@ -51,5 +51,5 @@ SPOTIFY_CLIENT_ID=your_client_id
 SPOTIFY_CLIENT_SECRET=your_client_secret
 ```
 
-> **Note:** Do **not** commit your `.env` file to GitHub. Keep it secret.
+
 
